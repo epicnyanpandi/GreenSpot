@@ -1,4 +1,4 @@
-# [download link](https://github.com/epicnyanpandi/SpotifyAdMuter/releases/download/v1.2/SpotifyAdMuter.exe)
+# [download link](https://github.com/epicnyanpandi/SpotifyAdMuter/releases/download/v1.2/SpotifyAdMuter.zip)
 
 \* i realize that Windows Defender flags it. it's not a virus. that being said, i take no responsibility if anything bad happens.
 
